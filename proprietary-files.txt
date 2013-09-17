@@ -266,4 +266,5 @@ vendor/lib/libsensor1.so
 vendor/lib/libsensor_reg.so
 vendor/lib/libssd.so
 vendor/lib/libsurround_proc.so
+vendor/lib/libthermalclient.so
 vendor/lib/libtime_genoff.so

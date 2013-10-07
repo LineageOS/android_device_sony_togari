@@ -100,6 +100,7 @@ etc/firmware/tzsuntory.b03
 etc/firmware/tzsuntory.mdt
 lib/hw/camera.qcom.so:lib/hw/vendor-camera.qcom.so
 lib/hw/gps.default.so:lib/hw/gps.msm8974.so
+lib/hw/lights.default.so:lib/hw/vendor-lights.default.so
 lib/hw/nfc.msm8974.so
 lib/libMiscTaAccessor.so
 lib/libQSEEComAPI.so

@@ -21,6 +21,8 @@ include device/sony/rhine-common/BoardConfigCommon.mk
 # Assert
 TARGET_OTA_ASSERT_DEVICE := C6802,C6806,C6833,C6843,togari
 
+TARGET_RELEASETOOLS_EXTENSIONS := device/sony/togari
+
 TARGET_SPECIFIC_HEADER_PATH += device/sony/togari/include
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/togari/bluetooth

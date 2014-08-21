@@ -41,16 +41,12 @@
         android:layout_width="match_parent"
         android:layout_weight="0"
         systemui:glowBackground="@drawable/ic_sysbar_highlight_land" />
-    <com.android.systemui.statusbar.policy.KeyButtonView
-        android:id="@+id/one"
-        android:layout_height="40dp"
-        android:layout_width="match_parent"
-        android:layout_weight="0"
-        systemui:glowBackground="@drawable/ic_sysbar_highlight_land" />
     <LinearLayout
         android:layout_height="0dp"
         android:layout_width="match_parent"
         android:layout_weight="1"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
         android:orientation="vertical"
         android:clipChildren="false"
         android:gravity="center_vertical"
@@ -102,13 +98,6 @@
             systemui:keyRepeat="true"
             systemui:glowBackground="@drawable/ic_sysbar_highlight_land" />
     </LinearLayout>
-    <com.android.systemui.statusbar.policy.KeyButtonView
-        android:id="@+id/six"
-        android:layout_height="40dp"
-        android:layout_width="match_parent"
-        android:layout_weight="0"
-        systemui:keyRepeat="true"
-        systemui:glowBackground="@drawable/ic_sysbar_highlight_land" />
     <com.android.systemui.statusbar.policy.KeyButtonView
         android:id="@+id/six"
         android:layout_height="40dp"

@@ -43,16 +43,12 @@
         android:layout_weight="0"
         android:scaleType="fitCenter"
         systemui:glowBackground="@drawable/ic_sysbar_highlight" />
-    <com.android.systemui.statusbar.policy.KeyButtonView
-        android:id="@+id/one"
-        android:layout_width="40dp"
-        android:layout_height="match_parent"
-        android:layout_weight="0"
-        android:scaleType="fitCenter" />
     <LinearLayout
         android:layout_height="match_parent"
         android:layout_width="0dp"
         android:layout_weight="1"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
         android:clipChildren="false"
         android:clipToPadding="false"
         android:id="@+id/mid_nav_buttons"
@@ -100,12 +96,6 @@
             systemui:keyRepeat="true"
             systemui:glowBackground="@drawable/ic_sysbar_highlight" />
     </LinearLayout>
-    <com.android.systemui.statusbar.policy.KeyButtonView
-        android:id="@+id/six"
-        android:layout_width="40dp"
-        android:layout_height="match_parent"
-        android:layout_weight="0"
-        android:scaleType="fitCenter" />
     <com.android.systemui.statusbar.policy.KeyButtonView
         android:id="@+id/six"
         android:layout_width="40dp"

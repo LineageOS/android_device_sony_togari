@@ -13,7 +13,6 @@ etc/firmware/touch_chip_id_0x75_config_id_0x0012.bin
 etc/firmware/touch_chip_id_0x75_config_id_0x0013.bin
 etc/firmware/touch_module_id_0x43.img
 etc/firmware/touch_module_id_0x44.img
-etc/mixer_paths.xml
 etc/sensor_def_qcomdev.conf
 etc/sensors_calib.conf
 etc/sysmon.cfg

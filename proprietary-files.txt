@@ -15,9 +15,7 @@ etc/firmware/touch_module_id_0x43.img
 etc/firmware/touch_module_id_0x44.img
 etc/sensor_def_qcomdev.conf
 etc/sensors_calib.conf
-etc/sysmon.cfg
 lib/libcald_hal.so
-lib/libsysmon_jni.so
 usr/idc/clearpad.idc
 usr/idc/max1187x_pen_0.idc
 usr/idc/max1187x_touchscreen_0.idc

@@ -1,4 +1,0 @@
-# Touchscreen
-usr/idc/clearpad.idc
-usr/idc/max1187x_pen_0.idc
-usr/idc/max1187x_touchscreen_0.idc
